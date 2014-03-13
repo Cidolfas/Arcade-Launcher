@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. --><LauncherData>
+  <GameInfo>
+    <Title>Super Example Bros.</Title>
+    <Description>An abstract game that&apos;s totally not about a bad trip Miyamoto had in the 70&apos;s.</Description>
+    <LongDescription>Any body know where I can find a guy about a thing?</LongDescription>
+    <FileLocation>sebros.exe</FileLocation>
+    <Arguments>-level testLevel</Arguments>
+    <Authors>
+      <Author>Miyamoto-dono</Author>
+    </Authors>
+    <Website>fuckyeahmiyamoto.tumblr.com</Website>
+    <CreationDate>4/11/2012</CreationDate>
+    <NumberOfPlayers>2</NumberOfPlayers>
+    <ImageLocation>/GameData/SuperExampleBros/Cover.jpg</ImageLocation>
+  </GameInfo>
+  <GameInfo>
+    <Title>Call of Calling</Title>
+    <Description>Play as a radio operator for the army coordinating troop movements from just behind the front lines!</Description>
+    <LongDescription>The boys with their guns get too much of the love in the popular conscience! The real heroes of the army are the logistics crews, quartermasters, and supply chain managers. But when we tried to make games about those jobs they sucked, so instead we focused on radio operations crews.</LongDescription>
+    <FileLocation>doompony.exe</FileLocation>
+    <Authors>
+      <Author>HAM Sutdios</Author>
+    </Authors>
+    <Website>callhome.com</Website>
+    <CreationDate>1/1/19XX</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Dark Moody and Spooky</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>oscarplease.exe</FileLocation>
+    <Arguments>nolensflare michaelbaymode</Arguments>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Fez</Title>
+    <Description>A game about dreams.</Description>
+    <LongDescription>Seriously, as of when I&apos;m writing this it comes out the next day and I don&apos;t even have the console required to play it. Standard length on the Xbox exclusivity is what, a year? I think that&apos;s how long Braid and Limbo took, though Bastion was much quicker coming to PC.</LongDescription>
+    <FileLocation>icanhazfez.exe</FileLocation>
+    <Arguments>noforreal please</Arguments>
+    <Authors>
+      <Author>Phil Phish</Author>
+    </Authors>
+    <Website>polytron.com</Website>
+    <ImageLocation>/GameData/Fez/Cover.jpg</ImageLocation>
+    <CreationDate>Never</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Trick or Treat: Vengeance Takers 2 FX Alpha</Title>
+    <Description>Play as a radio operator for the army coordinating troop movements from just behind the front lines!</Description>
+    <LongDescription>The boys with their guns get too much of the love in the popular conscience! The real heroes of the army are the logistics crews, quartermasters, and supply chain managers. But when we tried to make games about those jobs they sucked, so instead we focused on radio operations crews.</LongDescription>
+    <FileLocation>doompony.exe</FileLocation>
+    <Authors>
+      <Author>HAM Sutdios</Author>
+    </Authors>
+    <Website>callhome.com</Website>
+    <CreationDate>1/1/19XX</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Action Inventors</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>/GameData/ActionInventors/ai</FileLocation>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Furious George&apos;s Boxing and Yellow Hats</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>oscarplease.exe</FileLocation>
+    <Arguments>nolensflare michaelbaymode</Arguments>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Boy the Ground is Approaching Fast</Title>
+    <Description>Play as a radio operator for the army coordinating troop movements from just behind the front lines!</Description>
+    <LongDescription>The boys with their guns get too much of the love in the popular conscience! The real heroes of the army are the logistics crews, quartermasters, and supply chain managers. But when we tried to make games about those jobs they sucked, so instead we focused on radio operations crews.</LongDescription>
+    <FileLocation>doompony.exe</FileLocation>
+    <Authors>
+      <Author>HAM Sutdios</Author>
+    </Authors>
+    <Website>callhome.com</Website>
+    <CreationDate>1/1/19XX</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>One Wierd Tip</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>oscarplease.exe</FileLocation>
+    <Arguments>nolensflare michaelbaymode</Arguments>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Les Miserables</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>oscarplease.exe</FileLocation>
+    <Arguments>nolensflare michaelbaymode</Arguments>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Attack of the Space Babies</Title>
+    <Description>Play as a radio operator for the army coordinating troop movements from just behind the front lines!</Description>
+    <LongDescription>The boys with their guns get too much of the love in the popular conscience! The real heroes of the army are the logistics crews, quartermasters, and supply chain managers. But when we tried to make games about those jobs they sucked, so instead we focused on radio operations crews.</LongDescription>
+    <FileLocation>doompony.exe</FileLocation>
+    <Authors>
+      <Author>HAM Sutdios</Author>
+    </Authors>
+    <Website>callhome.com</Website>
+    <CreationDate>1/1/19XX</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>Left 5 Dead</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>oscarplease.exe</FileLocation>
+    <Arguments>nolensflare michaelbaymode</Arguments>
+    <Authors>
+      <Author>Alan Smithee</Author>
+      <Author>John Doe</Author>
+      <Author>Hugh Man</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+  <GameInfo>
+    <Title>English Country Tune Demo</Title>
+    <Description>A movie with no gameplay, but since we used black silhouettes on a dim background we figured it still worked.</Description>
+    <LongDescription>Everything I know about games I learned from Uncharted, but I liked the look of that Limbo thing. I figured, &quot;Games are easy, why not make one!&quot; so I made a mediocre film with mediocre writing and you can walk forwards. Hey, what&apos;s this &quot;game system&quot; thing people keep emailing me about?</LongDescription>
+    <FileLocation>/GameData/English Country Tune/English Country Tune Demo.app/Contents/MacOS/English Country Tune</FileLocation>
+    <Authors>
+      <Author>Increpare</Author>
+    </Authors>
+    <Website>fuckyeahlensflare.tumblr.com</Website>
+    <CreationDate>04/18/1975</CreationDate>
+  </GameInfo>
+</LauncherData>
